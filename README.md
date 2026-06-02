@@ -40,11 +40,22 @@ switch2.
 
 
 Direct connection: CIRCUIT DIAGRAM: 
+<img width="960" height="1280" alt="WhatsApp Image 2026-06-02 at 2 37 02 PM" src="https://github.com/user-attachments/assets/006a0e52-c9a1-46f8-8293-a3a6f1804b5c" />
+<img width="922" height="450" alt="image" src="https://github.com/user-attachments/assets/98bdd616-bbcb-4b2d-a49f-490e27988363" />
+
+
 Tabulation:1
+<img width="960" height="1280" alt="WhatsApp Image 2026-06-02 at 2 37 02 PM (1)" src="https://github.com/user-attachments/assets/39912171-51fb-41ee-90cb-fa9508c80923" />
+
 	
 Cross connection: CIRCUIT DIAGRAM:
+<img width="960" height="1280" alt="WhatsApp Image 2026-06-02 at 2 37 02 PM (2)" src="https://github.com/user-attachments/assets/fa86c8c3-598c-439a-a036-b02aab46fcd9" />
+<img width="855" height="423" alt="image" src="https://github.com/user-attachments/assets/eb4965ce-c481-42df-996c-458b1003229b" />
+
 
 Tabulation:2
+<img width="960" height="1280" alt="WhatsApp Image 2026-06-02 at 2 37 03 PM" src="https://github.com/user-attachments/assets/845952b4-6066-4dc6-b429-6e16ccd6dab9" />
+
 
 RESULT:
 Thus the staircase wiring is connected and tested.
